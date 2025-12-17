@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Moon Phase
+Comment=Visualizzatore fasi lunari con corrispondenze Wicca
+Exec=/home/gabriel1/Workspace/moon-phase/moon-phase
+Icon=weather-clear-night
+Terminal=false
+Categories=Utility;Science;
+Keywords=moon;luna;wicca;astrology;astronomia;
+StartupNotify=true
